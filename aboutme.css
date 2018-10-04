@@ -2,7 +2,7 @@ body {
     background-color: #dab4ed;
 }
 
-.img-banner {
+#img-banner {
   height: 100vh;
   background: url('cherry-blossoms.gif') no-repeat top;
   background-size: cover;
