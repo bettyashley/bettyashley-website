@@ -10,18 +10,21 @@ body {
      background-attachment: fixed;
 }
 
-.transbox {
-     margin: 50px;
-     background-color: #000000;
-     border: 20px solid white;
-     opacity: 0.2;
+.outer-box {
+     margin: 80px;
+     border: 10px solid white;
 }
 
-.transbox h1 {
+h1 {
      font-family: 'K2D', sans-serif;
-     color: #ffffff;
+     text-align: center;
+     color: #f2d9ec;
      font-weight: bold;
      font-size: 80px;
+     margin: 5px;
+     padding: 20px;
+     background color: #ffffff;
+     
 }
  
 .title {
