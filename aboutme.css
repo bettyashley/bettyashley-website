@@ -18,7 +18,7 @@ body {
      filter: alpha(opacity=60);
 }
 
-h1 {
+.transbox h1 {
      font-family: 'K2D', sans-serif;
      color: #ffffff;
      font-weight: bold;
