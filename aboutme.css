@@ -11,19 +11,20 @@ body {
  h1 {
      font-family: 'K2D', sans-serif;
      color: #ffffff;
+     font-weight: bold;
 }
  .title {
-     font-family: "Courier New", Courier, monospace;
+     font-family: 'K2D', sans-serif;
      text-align: center;
 }
  .hearts {
      text-align: center;
 }
  .bio {
-     font-family: "Courier New", Courier, monospace;
+     font-family: 'K2D', sans-serif;
 }
  .social-btn {
-     font-family: "Courier New", Courier, monospace;
+     font-family: 'K2D', sans-serif;
      text-transform: uppercase;
      font-size: 16px;
      border: 5px solid black;
