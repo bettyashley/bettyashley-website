@@ -11,16 +11,16 @@ body {
 }
 
 .outer-box {
-     margin: 100px;
+     margin: 120px;
      border: 10px solid white;
 }
 
 h1 {
      font-family: 'K2D', sans-serif;
      text-align: center;
-     color: #f2d9ec;
+     color: #fecde6;
      font-weight: bold;
-     font-size: 80px;
+     font-size: 70px;
      margin: 5px;
      padding: 20px;
      background-color: #ffffff;
