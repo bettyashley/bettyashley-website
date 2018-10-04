@@ -4,10 +4,15 @@ body {
 }
 
 #img-banner {
-  height: 100vh;
-  background: url('cherry-blossoms.gif') no-repeat top;
-  background-size: cover;
-  background-attachment: fixed;
+    height: 100vh;
+    background: url('cherry-blossoms.gif') no-repeat top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'K2D', sans-serif;
+    color: #000000;
 }
 
 .title {
